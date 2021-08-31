@@ -1,4 +1,4 @@
-# Projeto arquiterura de software em microsserviço
+# Projeto arquitetura de software em microsserviço
 
 
 Desenvolvendo uma arquitetura de software baseada em microsserviços.
